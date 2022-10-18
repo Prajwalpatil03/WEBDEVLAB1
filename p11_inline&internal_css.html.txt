@@ -1,0 +1,38 @@
+Name : Prajwal Patil 
+Roll No : 68
+Subject : Web Design-I
+
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Practical 11</title>
+    <style>
+        div{
+            font-size:50px;
+            text-align:center;
+            margin-top:40px;
+            margin-left:250px;
+            margin-right:250px;
+            border:2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color:black;background-color: khaki;text-align: center;">
+    Myself Prajwal<br>
+    You may connect to me through the below links
+    </h1>
+    <div>
+        <a href="https://www.linkedin.com/in/prajwal-patil-48711a249 ">Linkedin </a>
+    </div>
+    <div>
+        <a href=" https://github.com/Prajwalpatil03">Github</a>
+    </div>
+    <div>
+        <a href="mailto:prajwaldpatil2005@gmail.com">Gmail</a>
+    </div>
+    <div>
+        <a href="Practical.html">webpage</a>
+    </div>
+</body>
+</html>
